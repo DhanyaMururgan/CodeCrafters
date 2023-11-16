@@ -1,0 +1,46 @@
+E-COMMERCE
+
+Functional Requirements:
+1. Product Display:
+   Display three products: wired headphone, neckband, and TWS earphone.
+   Each product should have
+IMAGE
+Max -width: 100%;
+Height:auto;
+PRICE
+    font-weight: bold;
+    color: #27ae60;
+   
+2. Header:
+    Create a header with a highlighted offer.
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+
+3. Styling:
+    Apply CSS for styling the products and the overall page.
+   Background colur:white
+    Ensure a visually appealing design.
+
+4. Navigation:
+   Include navigation elements to move between different sections or products.
+
+Non-functional Requirements:
+1. Performance:
+    Page should load within a reasonable time to provide a smooth user experience.
+2. Scalability:
+    Design the system to handle a potential increase in the number of products or users.
+3. Security:
+   Implement secure connections (HTTPS) for user data protection.
+   Ensure secure payment processing.
+4. Compatibility:
+    Ensure compatibility with different browsers and devices.
+5. Usability:
+    Make the user interface intuitive for easy navigation and product selection.
+6. Reliability:
+   The system should be available and responsive with minimal downtime.
+7. Accessibility:
+    Design the website to be accessible to users with disabilities.
+8. Compliance:
+    Comply with relevant regulations and standards, especially regarding user data and online transactions.
