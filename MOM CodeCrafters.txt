@@ -1,0 +1,19 @@
+Time of meeting:2:00pm to 2:15 pm
+Date:16/11/2023
+
+Team Leader:Cibi Sadhana D.
+Business Analyst:Chandru.R,Darshan Athish .SP
+Developer:Catherine Davidson A,Bharath.M 
+Designer:Chaishree U,Dhanya M
+Tester:Darsan.G.
+
+Discussion:
+Business Analyst has completed the requirements of the webpage and it has been uploaded in the repository.
+designer has almost done with the flowchart for the webpage.
+Developer had started to code and style the webpage.
+Tester has done with the tabular column with it's requirements.
+
+conclusion:
+Discussed the current status of the project.Explored ways to enchance communication and collaboration using tools.
+Encouraged team members to share feedback on processes and suggested. 
+
